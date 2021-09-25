@@ -1,0 +1,1 @@
+vcash-wallet send -m file -d my_vcash_transaction.tx 10.25
